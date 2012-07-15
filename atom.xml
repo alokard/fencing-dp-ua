@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Федерация Фехтования Днепропетровской области]]></title>
+  <link href="http://alokard.github.com/fencing-dp-ua/atom.xml" rel="self"/>
+  <link href="http://alokard.github.com/fencing-dp-ua/"/>
+  <updated>2012-07-15T15:56:20+03:00</updated>
+  <id>http://alokard.github.com/fencing-dp-ua/</id>
+  <author>
+    <name><![CDATA[Федерация Фехтования Днепропетровской области]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Новая тестовая запись]]></title>
+    <link href="http://alokard.github.com/fencing-dp-ua/blog/2012/07/10/novaia-tiestovaia-zapis/"/>
+    <updated>2012-07-10T21:32:00+03:00</updated>
+    <id>http://alokard.github.com/fencing-dp-ua/blog/2012/07/10/novaia-tiestovaia-zapis</id>
+    <content type="html"><![CDATA[<h1>Пример заголовка</h1>
+
+<p><em>Обновленно</em></p>
+
+<h2>Пример под заголовка</h2>
+
+<h3>И заголовка третьего уровня</h3>
+
+<p>Это обычный текст</p>
+
+<!-- more -->
+
+
+<p>Список:</p>
+
+<ol>
+<li>Рас</li>
+<li>два</li>
+<li>три</li>
+</ol>
+
+
+<hr />
+
+<ul>
+<li>Рас</li>
+<li>Два</li>
+<li>Три</li>
+</ul>
+
+]]></content>
+  </entry>
+  
+</feed>
